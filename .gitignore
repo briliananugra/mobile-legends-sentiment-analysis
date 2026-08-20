@@ -1,3 +1,14 @@
+# jangan pernah commit token/credential
+kaggle.json
+access_token
+*.env
+.env
+
+# data mentah besar — sebaiknya tidak masuk git (opsional, tapi disarankan)
+mobilelegends.csv
+mobilelegends.csv.zip
+*.csv.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
