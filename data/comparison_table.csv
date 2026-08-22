@@ -1,0 +1,9 @@
+Model,Teks,SMOTE,Accuracy,F1_macro,Recall_Positif,F1_Positif,F1_Negatif
+SVM (linear),clean_stem,Ya,0.8576,0.8376,0.7956,0.7805,0.8947
+SVM (linear),clean_stem,Tidak,0.8612,0.834,0.7182,0.767,0.9011
+SVM (linear),clean_no_stem,Ya,0.8489,0.8253,0.7569,0.7611,0.8895
+SVM (linear),clean_no_stem,Tidak,0.8506,0.8183,0.674,0.7416,0.8949
+Naive Bayes,clean_no_stem,Ya,0.819,0.7836,0.6519,0.6962,0.8711
+Naive Bayes,clean_stem,Ya,0.8155,0.7816,0.663,0.6957,0.8676
+Naive Bayes,clean_stem,Tidak,0.7627,0.6447,0.2928,0.4398,0.8495
+Naive Bayes,clean_no_stem,Tidak,0.7504,0.618,0.2541,0.3932,0.8429
